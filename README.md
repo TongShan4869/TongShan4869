@@ -1,8 +1,8 @@
-# Hi, I'm Tong Shan 👋
+# Hi, I'm Tong 👋
 
 I study how the brain listens — to speech, to music, to the world.
 
-🔬 **Postdoctoral Research Scientist** in Psychiatry & Behavioral Sciences at **Stanford Medicine**, working on the neural mechanisms of speech communication and social interaction — speaker–listener brain coupling and auditory temporal integration during naturalistic communication (EEG, fMRI, computational modeling).
+🔬 **Postdoctoral Research Scientist** in Psychiatry & Behavioral Sciences at **Stanford Medicine**, working on the neural mechanisms of speech communication and social interaction — speaker–listener brain coupling and auditory temporal integration during naturalistic communication (EEG, fMRI, computational modeling). Our lab: [SASNL Lab](https://med.stanford.edu/sasnl.html)
 
 🎓 **Ph.D. in Biomedical Engineering**, University of Rochester — developed novel methods for deriving auditory brainstem responses (ABR) to naturalistic speech and music, and studied the neural encoding of musical acoustics across the human auditory system.
 
@@ -29,7 +29,7 @@ Auditory neuroscience · EEG/fMRI analysis · ABR · audio signal processing · 
 
 ### 🌐 Connect
 - 🖥️ Portfolio: [tongshan4869.github.io](https://tongshan4869.github.io)
-- 🎼 Music: [teenagingcu.com](https://teenagingcu.com/)
+- 🎼 Music: [cuinmusic.com](https://cuinmusic.com/)
 - 📄 Google Scholar: [Tong Shan](https://scholar.google.com/citations?user=eUVUjXwAAAAJ)
 - 💼 LinkedIn: [tong-shan1994](https://linkedin.com/in/tong-shan1994)
 - ✍️ Medium: [@cuinrnd](https://medium.com/@cuinrnd) · Substack: [@cuinrnd](https://substack.com/@cuinrnd)
