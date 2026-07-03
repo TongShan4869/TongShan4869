@@ -8,11 +8,13 @@
   </picture>
 </a>
 
-<br /><br />
+### Postdoctoral Research Scientist · Stanford Medicine
+
+<br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-21262d?style=flat-square&logo=github&logoColor=4EC5D4)](https://tongshan4869.github.io)
 [![Google Scholar](https://img.shields.io/badge/Scholar-21262d?style=flat-square&logo=googlescholar&logoColor=4EC5D4)](https://scholar.google.com/citations?user=eUVUjXwAAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=4EC5D4)](https://linkedin.com/in/tong-shan1994)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iJTIzNEVDNUQ0Ij48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2B)](https://linkedin.com/in/tong-shan1994)
 [![X](https://img.shields.io/badge/X-21262d?style=flat-square&logo=x&logoColor=4EC5D4)](https://x.com/cuinmusic)
 [![Email](https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=4EC5D4)](mailto:tongshan@stanford.edu)
 [![Music](https://img.shields.io/badge/Music-21262d?style=flat-square&logo=soundcloud&logoColor=4EC5D4)](https://teenagingcu.com/)
@@ -41,22 +43,6 @@ I combine **neuroscience, signal processing, and machine learning** to decode th
 `Auditory Neuroscience` · `Hearing Science` · `Neural Encoding of Speech & Music`  
 `Auditory Brainstem Response (ABR)` · `Psychoacoustics` · `Speech Communication`  
 `EEG` · `fMRI` · `Computational Modeling` · `Signal Processing` · `Machine Learning`
-
-</div>
-
-<br />
-
-## Methods &amp; Tools
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=4EC5D4)
-![PyTorch](https://img.shields.io/badge/PyTorch-21262d?style=flat-square&logo=pytorch&logoColor=4EC5D4)
-![NumPy](https://img.shields.io/badge/NumPy-21262d?style=flat-square&logo=numpy&logoColor=4EC5D4)
-![SciPy](https://img.shields.io/badge/SciPy-21262d?style=flat-square&logo=scipy&logoColor=4EC5D4)
-![MATLAB](https://img.shields.io/badge/MATLAB-21262d?style=flat-square&logoColor=4EC5D4)
-![EEG](https://img.shields.io/badge/EEG-21262d?style=flat-square&logoColor=4EC5D4)
-![fMRI](https://img.shields.io/badge/fMRI-21262d?style=flat-square&logoColor=4EC5D4)
 
 </div>
 
