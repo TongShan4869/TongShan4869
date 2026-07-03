@@ -45,11 +45,3 @@ I combine **neuroscience, signal processing, and machine learning** to decode th
 `EEG` · `fMRI` · `Computational Modeling` · `Signal Processing` · `Machine Learning`
 
 </div>
-
-<br />
-
-<div align="center">
-
-*Ask me about auditory neuroscience, EEG/fMRI analysis, ABR, audio signal processing, or music production &amp; game audio.*
-
-</div>
